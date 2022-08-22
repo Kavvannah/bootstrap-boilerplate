@@ -26,6 +26,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Contact
-Savannah Ramirez - @kavvannah (All socials) - savannahramirez58@icloud.com
+Savannah Ramirez - @kavvannah (All socials) - <savannahramirez58@icloud.com>
 
 Project Link: https://github.com/kavvannah/bootstrap-boilerplate
