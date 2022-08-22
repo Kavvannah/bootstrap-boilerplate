@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Bootstrap-Boilerplate
 This is a practice template for Bootstrap and using the best set up for a READme.md.
 
@@ -30,6 +31,9 @@ Please make sure to update tests as appropriate.
 Savannah Ramirez - @kavvannah (All socials) - <savannahramirez58@icloud.com>
 
 Project Link: https://github.com/kavvannah/bootstrap-boilerplate
+=======
+# bootstrap-boilerplate
+>>>>>>> main
 =======
 # bootstrap-boilerplate
 >>>>>>> main
